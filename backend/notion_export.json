@@ -1,0 +1,2009 @@
+[
+  {
+    "id": "22aeb10d-d423-8013-9c20-c44b4927fda6",
+    "nome": "Coxinhas Gabriel",
+    "valor": 16,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2025-06-26",
+    "criado_em": "2025-07-08T22:47:00.000Z"
+  },
+  {
+    "id": "22aeb10d-d423-80d7-af44-efe33f4fa02a",
+    "nome": "Batata Dips",
+    "valor": 17,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2025-06-26",
+    "criado_em": "2025-07-08T22:49:00.000Z"
+  },
+  {
+    "id": "22aeb10d-d423-8030-8293-df7ed624975a",
+    "nome": "Açai",
+    "valor": 9,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2025-06-28",
+    "criado_em": "2025-07-08T22:48:00.000Z"
+  },
+  {
+    "id": "29eeb10d-d423-803c-9dce-d2c91d182085",
+    "nome": "Açai",
+    "valor": 9,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2025-06-28",
+    "criado_em": "2025-11-01T23:56:00.000Z"
+  },
+  {
+    "id": "29eeb10d-d423-8048-b217-d1404abb51b4",
+    "nome": "Chocolate presente aniversário Gláucia",
+    "valor": 19.99,
+    "tipo": "Presente",
+    "conta": "Crédito Nubank",
+    "data": "2025-06-29",
+    "criado_em": "2025-11-01T23:59:00.000Z"
+  },
+  {
+    "id": "29eeb10d-d423-80cb-8ad2-c7e7663ecf39",
+    "nome": "Flores presente aniversário Gláucia",
+    "valor": 15,
+    "tipo": "Presente",
+    "conta": "Crédito Nubank",
+    "data": "2025-06-29",
+    "criado_em": "2025-11-01T23:56:00.000Z"
+  },
+  {
+    "id": "22aeb10d-d423-8060-9fff-f4339eddefca",
+    "nome": "Flores Gláucia",
+    "valor": 15,
+    "tipo": "Presente",
+    "conta": "Crédito Nubank",
+    "data": "2025-06-29",
+    "criado_em": "2025-07-08T22:47:00.000Z"
+  },
+  {
+    "id": "22aeb10d-d423-802f-9ab1-c8fcd9330bec",
+    "nome": "Chocolate niver Gláucia",
+    "valor": 19.99,
+    "tipo": "Presente",
+    "conta": "Crédito Nubank",
+    "data": "2025-06-29",
+    "criado_em": "2025-07-08T22:46:00.000Z"
+  },
+  {
+    "id": "22aeb10d-d423-80e4-b05a-e46fe9d9fcf2",
+    "nome": "Pastel",
+    "valor": 10,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2025-07-01",
+    "criado_em": "2025-07-08T22:46:00.000Z"
+  },
+  {
+    "id": "22aeb10d-d423-80fc-9d3f-e2cb0d60ab62",
+    "nome": "Laranjas",
+    "valor": 6.59,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2025-07-01",
+    "criado_em": "2025-07-08T22:45:00.000Z"
+  },
+  {
+    "id": "29eeb10d-d423-80e7-a00f-fefc21e42291",
+    "nome": "Pastel cantina",
+    "valor": 10,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2025-07-01",
+    "criado_em": "2025-11-01T23:59:00.000Z"
+  },
+  {
+    "id": "29feb10d-d423-800b-9e70-e8dcaaaa4213",
+    "nome": "Laranjas quitanda terra brasileira",
+    "valor": 6.59,
+    "tipo": "Alimentação",
+    "conta": "Crédito Nubank",
+    "data": "2025-07-01",
+    "criado_em": "2025-11-02T00:00:00.000Z"
+  },
+  {
+    "id": "22aeb10d-d423-809a-a2d2-e94e3392f940",
+    "nome": "Milkshake",
+    "valor": 12,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2025-07-05",
+    "criado_em": "2025-07-08T22:44:00.000Z"
+  },
+  {
+    "id": "29feb10d-d423-8064-aba9-e9adf18deaf0",
+    "nome": "Açai ",
+    "valor": 12,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2025-07-05",
+    "criado_em": "2025-11-02T00:01:00.000Z"
+  },
+  {
+    "id": "22aeb10d-d423-8064-b89d-c9d9e45ff8e3",
+    "nome": "Milkshake",
+    "valor": 26,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2025-07-07",
+    "criado_em": "2025-07-08T22:42:00.000Z"
+  },
+  {
+    "id": "29feb10d-d423-800d-8bea-d7b01d65782c",
+    "nome": "Açai",
+    "valor": 26,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2025-07-07",
+    "criado_em": "2025-11-02T00:07:00.000Z"
+  },
+  {
+    "id": "29feb10d-d423-802b-ac66-f187d8f2ee32",
+    "nome": "STAR WARS™ Battlefront™ II",
+    "valor": 15.9,
+    "tipo": "Jogo",
+    "conta": "Crédito Nubank",
+    "data": "2025-07-07",
+    "criado_em": "2025-11-02T00:02:00.000Z"
+  },
+  {
+    "id": "22aeb10d-d423-8044-a0d3-dd35a1a70a3e",
+    "nome": "Steam",
+    "valor": 15.9,
+    "tipo": "Sem Categoria",
+    "conta": "Crédito Nubank",
+    "data": "2025-07-07",
+    "criado_em": "2025-07-08T22:43:00.000Z"
+  },
+  {
+    "id": "29feb10d-d423-8057-9708-d74b094bb4b8",
+    "nome": "Livro presente Vinicius",
+    "valor": 53.8,
+    "tipo": "Presente",
+    "conta": "Crédito Nubank",
+    "data": "2025-07-19",
+    "criado_em": "2025-11-02T00:08:00.000Z"
+  },
+  {
+    "id": "236eb10d-d423-801e-a2f5-ddf1cf852f45",
+    "nome": "Livro Vinícius ",
+    "valor": 26.9,
+    "tipo": "Presente",
+    "conta": "Crédito Nubank",
+    "data": "2025-07-20",
+    "criado_em": "2025-07-20T13:37:00.000Z"
+  },
+  {
+    "id": "242eb10d-d423-80bc-8605-cb2dad7ecff1",
+    "nome": "Passagem ônibus ",
+    "valor": 5,
+    "tipo": "Transporte",
+    "conta": "Conta Nubank",
+    "data": "2025-07-25",
+    "criado_em": "2025-08-01T22:34:00.000Z"
+  },
+  {
+    "id": "242eb10d-d423-800a-91e7-f621feec8d87",
+    "nome": "Passagem ônibus ",
+    "valor": 10,
+    "tipo": "Transporte",
+    "conta": "Conta Nubank",
+    "data": "2025-07-29",
+    "criado_em": "2025-08-01T22:35:00.000Z"
+  },
+  {
+    "id": "242eb10d-d423-802f-8058-dc5c398069a3",
+    "nome": "Passagem ônibus ",
+    "valor": 5,
+    "tipo": "Transporte",
+    "conta": "Conta Nubank",
+    "data": "2025-07-30",
+    "criado_em": "2025-08-01T22:36:00.000Z"
+  },
+  {
+    "id": "29feb10d-d423-8036-a911-ee366f7adc2b",
+    "nome": "Livro: A arte da guerra",
+    "valor": 1.99,
+    "tipo": "Livro",
+    "conta": "Crédito Nubank",
+    "data": "2025-07-30",
+    "criado_em": "2025-11-02T00:13:00.000Z"
+  },
+  {
+    "id": "242eb10d-d423-80e5-a6ba-f281504d17a2",
+    "nome": "Feira das nações ",
+    "valor": 4.55,
+    "tipo": "Escola",
+    "conta": "Conta Nubank",
+    "data": "2025-07-31",
+    "criado_em": "2025-08-01T22:36:00.000Z"
+  },
+  {
+    "id": "242eb10d-d423-8036-b652-c82ca938d6af",
+    "nome": "Ingresso show febem",
+    "valor": 18,
+    "tipo": "Sem Categoria",
+    "conta": "Conta Nubank",
+    "data": "2025-08-01",
+    "criado_em": "2025-08-01T22:59:00.000Z"
+  },
+  {
+    "id": "242eb10d-d423-8067-a665-c44b2993c857",
+    "nome": "Ingresso show febem",
+    "valor": 18,
+    "tipo": "Sem Categoria",
+    "conta": "Conta Nubank",
+    "data": "2025-08-01",
+    "criado_em": "2025-08-01T22:37:00.000Z"
+  },
+  {
+    "id": "242eb10d-d423-808d-ba78-dd9a62a0f3da",
+    "nome": "Passagem metrô",
+    "valor": 10.4,
+    "tipo": "Transporte",
+    "conta": "Conta Nubank",
+    "data": "2025-08-01",
+    "criado_em": "2025-08-01T22:38:00.000Z"
+  },
+  {
+    "id": "29feb10d-d423-8068-8583-fb664335b914",
+    "nome": "Café sesc belenzinho",
+    "valor": 4,
+    "tipo": "Alimentação",
+    "conta": "Crédito Nubank",
+    "data": "2025-08-03",
+    "criado_em": "2025-11-02T00:16:00.000Z"
+  },
+  {
+    "id": "29feb10d-d423-80e7-a6e4-c3072c3f4f54",
+    "nome": "Renovação exame dermatológico sesc",
+    "valor": 11.5,
+    "tipo": "Saúde",
+    "conta": "Crédito Nubank",
+    "data": "2025-08-03",
+    "criado_em": "2025-11-02T00:15:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-8024-add0-eebca87d8d39",
+    "nome": "Mercado",
+    "valor": 19.57,
+    "tipo": "Alimentação",
+    "conta": "Crédito Nubank",
+    "data": "2025-08-25",
+    "criado_em": "2025-11-20T15:49:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-8025-9a39-d00a8af22732",
+    "nome": "Lanche ceret",
+    "valor": 13,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2025-08-31",
+    "criado_em": "2025-11-20T15:52:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-804e-b606-d32708bf5907",
+    "nome": "Lanche ceret",
+    "valor": 13,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2025-08-31",
+    "criado_em": "2025-11-20T15:53:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-8007-b711-e1a402c218d1",
+    "nome": "Tempero familia",
+    "valor": 17,
+    "tipo": "Alimentação",
+    "conta": "Crédito Nubank",
+    "data": "2025-09-03",
+    "criado_em": "2025-11-20T15:54:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-8089-ac99-f9a589a20eb4",
+    "nome": "Mercado bompreco",
+    "valor": 2.5,
+    "tipo": "Alimentação",
+    "conta": "Crédito Nubank",
+    "data": "2025-09-04",
+    "criado_em": "2025-11-20T15:55:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-80a3-a282-e92699c08d4a",
+    "nome": "Mercado Celio",
+    "valor": 13,
+    "tipo": "Alimentação",
+    "conta": "Crédito Nubank",
+    "data": "2025-09-04",
+    "criado_em": "2025-11-20T15:56:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-80be-acbd-ec392ba55a1d",
+    "nome": "Lanche cantina",
+    "valor": 8,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2025-09-05",
+    "criado_em": "2025-11-20T15:57:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-80e7-9077-dd9c2efc0125",
+    "nome": "Livro entendendo algorítimos",
+    "valor": 70,
+    "tipo": "Livro",
+    "conta": "Crédito Nubank",
+    "data": "2025-09-08",
+    "criado_em": "2025-11-20T15:57:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-8025-9b05-d93df3de2b50",
+    "nome": "Curso Galego",
+    "valor": 244.3,
+    "tipo": "Profissional",
+    "conta": "Crédito Nubank",
+    "data": "2025-09-11",
+    "criado_em": "2025-11-20T15:58:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-8020-a89c-d04f68a65082",
+    "nome": "Produtos skin care",
+    "valor": 49,
+    "tipo": "Cosméticos",
+    "conta": "Crédito Nubank",
+    "data": "2025-09-17",
+    "criado_em": "2025-11-20T15:59:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-8073-891c-fead2027dc59",
+    "nome": "Manifesto comunista",
+    "valor": 5.9,
+    "tipo": "Livro",
+    "conta": "Crédito Nubank",
+    "data": "2025-09-18",
+    "criado_em": "2025-11-20T16:00:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-80bc-9e68-e2ec6ab0bebd",
+    "nome": "Mercado ",
+    "valor": 10,
+    "tipo": "Alimentação",
+    "conta": "Crédito Nubank",
+    "data": "2025-09-19",
+    "criado_em": "2025-11-20T16:01:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-80e0-af17-fff10a77eb42",
+    "nome": "Amazon prime",
+    "valor": 1,
+    "tipo": "Sem Categoria",
+    "conta": "Crédito Nubank",
+    "data": "2025-09-21",
+    "criado_em": "2025-11-20T16:01:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-807b-8aa2-d17fb4b97889",
+    "nome": "Lanche cantina",
+    "valor": 12,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2025-09-24",
+    "criado_em": "2025-11-20T16:02:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-80ed-9061-f7c0f56f6adf",
+    "nome": "Lanche cantina",
+    "valor": 23,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2025-09-25",
+    "criado_em": "2025-11-20T16:02:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-809f-b51f-c3f601e26a27",
+    "nome": "Lanche cantina",
+    "valor": 15,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2025-09-26",
+    "criado_em": "2025-11-20T16:02:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-80cb-ac2a-cf654b2a8069",
+    "nome": "Pastel",
+    "valor": 13,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2025-09-26",
+    "criado_em": "2025-11-20T16:03:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-80c5-b9c2-d13dc4286b88",
+    "nome": "Mercado",
+    "valor": 4.49,
+    "tipo": "Alimentação",
+    "conta": "Crédito Nubank",
+    "data": "2025-09-29",
+    "criado_em": "2025-11-20T16:03:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-801c-978f-c85ee893805c",
+    "nome": "Short e camisa shein",
+    "valor": 66.78,
+    "tipo": "Vestuário",
+    "conta": "Crédito Nubank",
+    "data": "2025-10-11",
+    "criado_em": "2025-11-20T16:04:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-8089-be63-f5efbc9fa354",
+    "nome": "Odisseia",
+    "valor": 11,
+    "tipo": "Livro",
+    "conta": "Crédito Nubank",
+    "data": "2025-10-11",
+    "criado_em": "2025-11-20T16:05:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-80bc-9f89-f400c1e4c50b",
+    "nome": "Spotify",
+    "valor": 23,
+    "tipo": "Sem Categoria",
+    "conta": "Crédito Nubank",
+    "data": "2025-10-13",
+    "criado_em": "2025-11-20T16:06:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-805c-b77e-eaaf1eec6152",
+    "nome": "Mercado",
+    "valor": 14.9,
+    "tipo": "Alimentação",
+    "conta": "Crédito Nubank",
+    "data": "2025-10-16",
+    "criado_em": "2025-11-20T16:06:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-8085-9dfe-dcca17ce0658",
+    "nome": "Mercado",
+    "valor": 16.48,
+    "tipo": "Alimentação",
+    "conta": "Crédito Nubank",
+    "data": "2025-10-25",
+    "criado_em": "2025-11-20T16:07:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-801b-a314-e66e1906d0c7",
+    "nome": "Creme cabelo",
+    "valor": 12.9,
+    "tipo": "Cosméticos",
+    "conta": "Crédito Nubank",
+    "data": "2025-10-25",
+    "criado_em": "2025-11-20T16:07:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-801b-be98-c0cde2521b74",
+    "nome": "Açai",
+    "valor": 29,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2025-10-31",
+    "criado_em": "2025-11-20T16:09:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-8084-8b15-d98354ef5201",
+    "nome": "Cabo hdmi",
+    "valor": 18.69,
+    "tipo": "Eletônicos",
+    "conta": "Crédito Nubank",
+    "data": "2025-11-01",
+    "criado_em": "2025-11-20T16:10:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-80ec-8ce9-f4adc3e32937",
+    "nome": "Kotas",
+    "valor": 19.53,
+    "tipo": "Sem Categoria",
+    "conta": "Crédito Nubank",
+    "data": "2025-11-05",
+    "criado_em": "2025-11-20T16:10:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-80fb-8409-eb07bb85dcee",
+    "nome": "Creme hidratante rosto",
+    "valor": 27.99,
+    "tipo": "Cosméticos",
+    "conta": "Crédito Nubank",
+    "data": "2025-11-08",
+    "criado_em": "2025-11-20T16:13:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-80a8-8dc1-e36c53b5a168",
+    "nome": "Xarope tosse mãe",
+    "valor": 20.95,
+    "tipo": "Saúde",
+    "conta": "Crédito Nubank",
+    "data": "2025-11-08",
+    "criado_em": "2025-11-20T16:12:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-808f-850d-e259024819f3",
+    "nome": "Mercado",
+    "valor": 17.24,
+    "tipo": "Alimentação",
+    "conta": "Crédito Nubank",
+    "data": "2025-11-10",
+    "criado_em": "2025-11-20T16:14:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-80cd-928a-f589eee86057",
+    "nome": "Pisca pisca natal mãe",
+    "valor": 19.99,
+    "tipo": "Presente",
+    "conta": "Crédito Nubank",
+    "data": "2025-11-15",
+    "criado_em": "2025-11-20T16:14:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-8023-bdd0-ddd464d3d7ae",
+    "nome": "Doppler Ultrassom ",
+    "valor": 290,
+    "tipo": "Saúde",
+    "conta": "Crédito Nubank",
+    "data": "2025-11-18",
+    "criado_em": "2025-11-20T16:15:00.000Z"
+  },
+  {
+    "id": "2b1eb10d-d423-8021-87bc-cd5a1d11dcbf",
+    "nome": "Coxinha e H2O Limoneto",
+    "valor": 16,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2025-11-19",
+    "criado_em": "2025-11-20T16:16:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-8076-9f88-e105824dedee",
+    "nome": "KFC",
+    "valor": 50.5,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2025-11-22",
+    "criado_em": "2026-03-20T13:11:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-8056-ba19-f64cfeaae9e5",
+    "nome": "Spotify",
+    "valor": 11.95,
+    "tipo": "Sem Categoria",
+    "conta": "Crédito Nubank",
+    "data": "2025-12-12",
+    "criado_em": "2026-03-20T13:12:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-8059-80a6-e136dbd22cfc",
+    "nome": "Mercado",
+    "valor": 32,
+    "tipo": "Alimentação",
+    "conta": "Crédito Nubank",
+    "data": "2025-12-27",
+    "criado_em": "2026-03-20T13:13:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-8024-92c7-ecab3690f152",
+    "nome": "Uber",
+    "valor": 9.93,
+    "tipo": "Transporte",
+    "conta": "Crédito Nubank",
+    "data": "2025-12-27",
+    "criado_em": "2026-03-20T13:28:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-8044-b380-e944a8858123",
+    "nome": "TLOU 2",
+    "valor": 172.59,
+    "tipo": "Jogo",
+    "conta": "Crédito Nubank",
+    "data": "2025-12-31",
+    "criado_em": "2026-03-20T13:29:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-8056-802d-d4ebfd826b35",
+    "nome": "Boosteroid",
+    "valor": 70.36,
+    "tipo": "Jogo",
+    "conta": "Crédito Nubank",
+    "data": "2025-12-31",
+    "criado_em": "2026-03-20T13:28:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-801d-be5e-f6b3612c62c8",
+    "nome": "Passagem",
+    "valor": 15.9,
+    "tipo": "Transporte",
+    "conta": "Crédito Nubank",
+    "data": "2026-01-09",
+    "criado_em": "2026-03-20T13:29:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-80a9-869a-f373800b0fe8",
+    "nome": "Mercado",
+    "valor": 32.02,
+    "tipo": "Alimentação",
+    "conta": "Crédito Nubank",
+    "data": "2026-01-12",
+    "criado_em": "2026-03-20T13:30:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-80b1-ad21-cb6795c85bdf",
+    "nome": "Uber",
+    "valor": 22.93,
+    "tipo": "Transporte",
+    "conta": "Crédito Nubank",
+    "data": "2026-01-24",
+    "criado_em": "2026-03-20T13:31:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-802b-8aa7-f04d1241af91",
+    "nome": "BK",
+    "valor": 96.8,
+    "tipo": "Lanche/Doces",
+    "conta": "Conta Nubank",
+    "data": "2026-02-01",
+    "criado_em": "2026-03-20T13:31:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-809c-a288-fa9c6d80660f",
+    "nome": "Pizza",
+    "valor": 60.81,
+    "tipo": "Lanche/Doces",
+    "conta": "Conta Nubank",
+    "data": "2026-02-14",
+    "criado_em": "2026-03-20T13:34:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-80bf-8b0b-c2e8207a7052",
+    "nome": "Spotify",
+    "valor": 12.9,
+    "tipo": "Sem Categoria",
+    "conta": "Crédito Nubank",
+    "data": "2026-02-23",
+    "criado_em": "2026-03-20T13:32:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-8041-aab7-fedd5f74bec8",
+    "nome": "Passagem",
+    "valor": 21.2,
+    "tipo": "Transporte",
+    "conta": "Conta Nubank",
+    "data": "2026-03-02",
+    "criado_em": "2026-03-20T13:35:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-8059-90ea-f6c89458e0e3",
+    "nome": "Passagem",
+    "valor": 40,
+    "tipo": "Transporte",
+    "conta": "Conta Nubank",
+    "data": "2026-03-02",
+    "criado_em": "2026-03-20T13:35:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-8004-8029-db79aa3d241f",
+    "nome": "Esfirra",
+    "valor": 8,
+    "tipo": "Lanche/Doces",
+    "conta": "Conta Nubank",
+    "data": "2026-03-04",
+    "criado_em": "2026-03-20T13:38:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-8048-8647-d90a6eb16a46",
+    "nome": "Passagem",
+    "valor": 6,
+    "tipo": "Transporte",
+    "conta": "Conta Nubank",
+    "data": "2026-03-04",
+    "criado_em": "2026-03-20T13:37:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-8094-975a-de2abd536db5",
+    "nome": "Bilhete Unico",
+    "valor": 37.1,
+    "tipo": "Transporte",
+    "conta": "Conta Nubank",
+    "data": "2026-03-04",
+    "criado_em": "2026-03-20T13:36:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-801f-9bb0-decc65e03498",
+    "nome": "Canoli",
+    "valor": 10,
+    "tipo": "Lanche/Doces",
+    "conta": "Conta Nubank",
+    "data": "2026-03-06",
+    "criado_em": "2026-03-20T13:39:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-8001-9dd1-d218690300a6",
+    "nome": "Passagem",
+    "valor": 23,
+    "tipo": "Transporte",
+    "conta": "Conta Nubank",
+    "data": "2026-03-06",
+    "criado_em": "2026-03-20T13:38:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-80c4-988e-ea05188e4776",
+    "nome": "Passagem",
+    "valor": 30,
+    "tipo": "Transporte",
+    "conta": "Conta Nubank",
+    "data": "2026-03-10",
+    "criado_em": "2026-03-20T13:39:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-802d-a626-c7256cedc062",
+    "nome": "Murilo Lasanha",
+    "valor": 50,
+    "tipo": "Entretenimento e Lazer",
+    "conta": "Conta Nubank",
+    "data": "2026-03-12",
+    "criado_em": "2026-03-20T13:40:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-808f-ba54-daab14f8cf25",
+    "nome": "Batata Cone",
+    "valor": 24,
+    "tipo": "Lanche/Doces",
+    "conta": "Conta Nubank",
+    "data": "2026-03-13",
+    "criado_em": "2026-03-20T13:41:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-8075-bdcd-eec035fb9581",
+    "nome": "Passagem",
+    "valor": 70,
+    "tipo": "Transporte",
+    "conta": "Conta Nubank",
+    "data": "2026-03-13",
+    "criado_em": "2026-03-20T13:41:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-8019-825f-d70e3af52d8c",
+    "nome": "Açai",
+    "valor": 14,
+    "tipo": "Lanche/Doces",
+    "conta": "Conta Nubank",
+    "data": "2026-03-14",
+    "criado_em": "2026-03-20T13:42:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-8090-b7ea-f922f1d2e624",
+    "nome": "Açai",
+    "valor": 22,
+    "tipo": "Lanche/Doces",
+    "conta": "Conta Nubank",
+    "data": "2026-03-15",
+    "criado_em": "2026-03-20T13:47:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-804e-9b41-cefc750f2a8b",
+    "nome": "Passagem",
+    "valor": 5.3,
+    "tipo": "Transporte",
+    "conta": "Conta Nubank",
+    "data": "2026-03-15",
+    "criado_em": "2026-03-20T13:44:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-80a9-b74b-eb8299542e1c",
+    "nome": "Oculos natação",
+    "valor": 60,
+    "tipo": "Esporte",
+    "conta": "Conta Nubank",
+    "data": "2026-03-15",
+    "criado_em": "2026-03-20T13:43:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-80a1-bd79-cc7dbb76466c",
+    "nome": "Uber",
+    "valor": 18.96,
+    "tipo": "Transporte",
+    "conta": "Crédito Nubank",
+    "data": "2026-03-15",
+    "criado_em": "2026-03-20T13:32:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-8096-b456-dd5186576f3b",
+    "nome": "Farmácia",
+    "valor": 53.69,
+    "tipo": "Saúde",
+    "conta": "Conta Nubank",
+    "data": "2026-03-17",
+    "criado_em": "2026-03-20T13:47:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-80b1-9545-ec7abd3ebeb4",
+    "nome": "Passagem",
+    "valor": 100,
+    "tipo": "Transporte",
+    "conta": "Conta Banco Do Brasil",
+    "data": "2026-03-19",
+    "criado_em": "2026-03-20T13:54:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-805a-bccd-cc2ad33fadb3",
+    "nome": "Impressão Termos Nutis",
+    "valor": 4.2,
+    "tipo": "Escola",
+    "conta": "Conta Nubank",
+    "data": "2026-03-19",
+    "criado_em": "2026-03-20T13:49:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-807f-a007-fa9282d81842",
+    "nome": "Lanche",
+    "valor": 6,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2026-03-20",
+    "criado_em": "2026-07-06T22:55:00.000Z"
+  },
+  {
+    "id": "329eb10d-d423-8075-91f1-f852aca5abc0",
+    "nome": "Farmácia",
+    "valor": 73.77,
+    "tipo": "Saúde",
+    "conta": "Conta Nubank",
+    "data": "2026-03-20",
+    "criado_em": "2026-03-20T13:50:00.000Z"
+  },
+  {
+    "id": "32ceb10d-d423-8027-b69a-ff9b07beab77",
+    "nome": "Açai",
+    "valor": 22,
+    "tipo": "Lanche/Doces",
+    "conta": "Conta Nubank",
+    "data": "2026-03-23",
+    "criado_em": "2026-03-23T21:32:00.000Z"
+  },
+  {
+    "id": "333eb10d-d423-80fb-a0e6-fc8ee472b2a4",
+    "nome": "Spotify",
+    "valor": 12.9,
+    "tipo": "Entretenimento e Lazer",
+    "conta": "Crédito Nubank",
+    "data": "2026-03-23",
+    "criado_em": "2026-03-30T01:02:00.000Z"
+  },
+  {
+    "id": "32feb10d-d423-80da-be56-e9a803e21110",
+    "nome": "Recarga Bilhete",
+    "valor": 50,
+    "tipo": "Transporte",
+    "conta": "Conta Nubank",
+    "data": "2026-03-26",
+    "criado_em": "2026-03-26T14:29:00.000Z"
+  },
+  {
+    "id": "333eb10d-d423-800e-8ebe-e6fc34e13d90",
+    "nome": "Pastel meu e do Gabriel",
+    "valor": 20,
+    "tipo": "Lanche/Doces",
+    "conta": "Conta Nubank",
+    "data": "2026-03-28",
+    "criado_em": "2026-03-30T01:00:00.000Z"
+  },
+  {
+    "id": "333eb10d-d423-8047-8d86-e1393a9022db",
+    "nome": "Caldo de cana",
+    "valor": 7,
+    "tipo": "Lanche/Doces",
+    "conta": "Conta Nubank",
+    "data": "2026-03-28",
+    "criado_em": "2026-03-30T01:00:00.000Z"
+  },
+  {
+    "id": "333eb10d-d423-8047-b205-ceda931b3948",
+    "nome": "Pastel",
+    "valor": 12,
+    "tipo": "Lanche/Doces",
+    "conta": "Conta Nubank",
+    "data": "2026-03-28",
+    "criado_em": "2026-03-30T00:59:00.000Z"
+  },
+  {
+    "id": "333eb10d-d423-8092-89f0-ebf5b36b3fcf",
+    "nome": "Açai",
+    "valor": 22,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2026-03-28",
+    "criado_em": "2026-03-30T01:02:00.000Z"
+  },
+  {
+    "id": "333eb10d-d423-80ac-a5d7-efa66a4bbc90",
+    "nome": "Refris",
+    "valor": 15.99,
+    "tipo": "Lanche/Doces",
+    "conta": "Conta Nubank",
+    "data": "2026-03-28",
+    "criado_em": "2026-03-30T01:01:00.000Z"
+  },
+  {
+    "id": "333eb10d-d423-80f6-8ded-c8386a216476",
+    "nome": "Corte cabelo",
+    "valor": 45,
+    "tipo": "Cuidados Pessoais",
+    "conta": "Conta Nubank",
+    "data": "2026-03-28",
+    "criado_em": "2026-03-30T01:00:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-8019-8890-e528705ec190",
+    "nome": "Misto quente",
+    "valor": 20,
+    "tipo": "Alimentação",
+    "conta": "Conta Nubank",
+    "data": "2026-03-28",
+    "criado_em": "2026-05-23T17:01:00.000Z"
+  },
+  {
+    "id": "333eb10d-d423-80b3-b86a-dd24d91c5b94",
+    "nome": "Recarga bilhete",
+    "valor": 50,
+    "tipo": "Transporte",
+    "conta": "Conta Nubank",
+    "data": "2026-03-28",
+    "criado_em": "2026-03-30T01:01:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-8075-ab3d-c5b3bf371c0c",
+    "nome": "Lanche cantina",
+    "valor": 7,
+    "tipo": "Lanche/Doces",
+    "conta": "Conta Nubank",
+    "data": "2026-04-01",
+    "criado_em": "2026-05-23T16:51:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-801e-953c-d31cab52d762",
+    "nome": "Farmacia",
+    "valor": 39.99,
+    "tipo": "Cosméticos",
+    "conta": "Crédito Nubank",
+    "data": "2026-04-02",
+    "criado_em": "2026-05-23T16:36:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-8088-a844-e5dd23fe7197",
+    "nome": "Passagem trem",
+    "valor": 12,
+    "tipo": "Transporte",
+    "conta": "Conta Nubank",
+    "data": "2026-04-06",
+    "criado_em": "2026-05-23T16:53:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-8026-85a5-d4b44a05a6c7",
+    "nome": "Lanche café da manhã ",
+    "valor": 21,
+    "tipo": "Alimentação",
+    "conta": "Conta Nubank",
+    "data": "2026-04-06",
+    "criado_em": "2026-05-23T16:52:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-80ce-b923-c5bbe7f331b7",
+    "nome": "Uber",
+    "valor": 25.93,
+    "tipo": "Transporte",
+    "conta": "Crédito Nubank",
+    "data": "2026-04-06",
+    "criado_em": "2026-05-23T16:36:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-80bc-831b-f1b1a965ed0f",
+    "nome": "Lanche cantina ",
+    "valor": 7,
+    "tipo": "Lanche/Doces",
+    "conta": "Conta Nubank",
+    "data": "2026-04-08",
+    "criado_em": "2026-05-23T16:55:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-8091-a7d6-d23ef083c5fa",
+    "nome": "Açai",
+    "valor": 22,
+    "tipo": "Lanche/Doces",
+    "conta": "Conta Nubank",
+    "data": "2026-04-10",
+    "criado_em": "2026-05-23T17:00:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-80ea-ba65-d1729346865a",
+    "nome": "Internet",
+    "valor": 30,
+    "tipo": "Internet",
+    "conta": "Crédito Nubank",
+    "data": "2026-04-10",
+    "criado_em": "2026-05-23T16:37:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-80ee-a400-dfe4f9255aef",
+    "nome": "Almoço",
+    "valor": 15.99,
+    "tipo": "Alimentação",
+    "conta": "Conta Nubank",
+    "data": "2026-04-11",
+    "criado_em": "2026-05-23T17:00:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-801b-8fe2-d68b4a66f1dd",
+    "nome": "iFood",
+    "valor": 60.79,
+    "tipo": "Alimentação",
+    "conta": "Crédito Nubank",
+    "data": "2026-04-12",
+    "criado_em": "2026-05-23T16:37:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-80f7-a2e7-e271c785341e",
+    "nome": "Academia",
+    "valor": 9.9,
+    "tipo": "Academia",
+    "conta": "Crédito Nubank",
+    "data": "2026-04-13",
+    "criado_em": "2026-05-23T16:38:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-80f2-b2af-ff6d417f0e47",
+    "nome": "Pastel",
+    "valor": 20,
+    "tipo": "Lanche/Doces",
+    "conta": "Conta Nubank",
+    "data": "2026-04-20",
+    "criado_em": "2026-05-23T17:02:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-8063-bc2d-e2c16c1a9aed",
+    "nome": "Mercado",
+    "valor": 14.09,
+    "tipo": "Alimentação",
+    "conta": "Conta Nubank",
+    "data": "2026-04-20",
+    "criado_em": "2026-05-23T17:08:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-803a-a1a1-f32033a50121",
+    "nome": "Coxinha",
+    "valor": 9,
+    "tipo": "Lanche/Doces",
+    "conta": "Conta Nubank",
+    "data": "2026-04-23",
+    "criado_em": "2026-05-23T17:10:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-809f-af9e-fa4732ba3052",
+    "nome": "Spotify",
+    "valor": 12.9,
+    "tipo": "Entretenimento e Lazer",
+    "conta": "Crédito Nubank",
+    "data": "2026-04-23",
+    "criado_em": "2026-05-23T16:39:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-8012-ae41-f519ed5fd928",
+    "nome": "Açai",
+    "valor": 22,
+    "tipo": "Lanche/Doces",
+    "conta": "Conta Nubank",
+    "data": "2026-04-24",
+    "criado_em": "2026-05-23T17:08:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-8084-97b2-fddd972d4d1e",
+    "nome": "Tenis",
+    "valor": 189.99,
+    "tipo": "Vestuário",
+    "conta": "Conta Nubank",
+    "data": "2026-04-24",
+    "criado_em": "2026-05-23T17:16:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-80fc-836f-e223c38dc829",
+    "nome": "Lanche cantina",
+    "valor": 8,
+    "tipo": "Lanche/Doces",
+    "conta": "Conta Nubank",
+    "data": "2026-04-27",
+    "criado_em": "2026-05-23T17:17:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-8070-be22-e7add2ff4142",
+    "nome": "Farmácia",
+    "valor": 173.89,
+    "tipo": "Cosméticos",
+    "conta": "Conta Nubank",
+    "data": "2026-04-27",
+    "criado_em": "2026-05-23T17:16:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-8060-9896-c14ad86ae009",
+    "nome": "Marmita",
+    "valor": 28.98,
+    "tipo": "Alimentação",
+    "conta": "Crédito Nubank",
+    "data": "2026-04-28",
+    "criado_em": "2026-05-23T16:40:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-80d5-8646-eaf2ddf08058",
+    "nome": "lanche cantina",
+    "valor": 18,
+    "tipo": "Lanche/Doces",
+    "conta": "Conta Nubank",
+    "data": "2026-04-29",
+    "criado_em": "2026-05-23T17:18:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-80f5-9aec-d6a01d0f954e",
+    "nome": "Pagamento rafael",
+    "valor": 10,
+    "tipo": "Transporte",
+    "conta": "Conta Nubank",
+    "data": "2026-04-29",
+    "criado_em": "2026-05-23T17:18:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-8022-9633-dc33705aa594",
+    "nome": "Recarga cartao onibus",
+    "valor": 50,
+    "tipo": "Transporte",
+    "conta": "Conta Nubank",
+    "data": "2026-04-29",
+    "criado_em": "2026-05-23T17:17:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-80a0-9231-ea7f7a99f1fe",
+    "nome": "Livro a Cor Púrpura",
+    "valor": 19.21,
+    "tipo": "Livro",
+    "conta": "Crédito Nubank",
+    "data": "2026-04-30",
+    "criado_em": "2026-05-23T16:43:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-8082-8eb9-cde4bf9b742f",
+    "nome": "Mercado besteiras",
+    "valor": 137.22,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2026-04-30",
+    "criado_em": "2026-05-23T16:43:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-80ed-ad65-fe9419f6af37",
+    "nome": "Motel",
+    "valor": 179.44,
+    "tipo": "Entretenimento e Lazer",
+    "conta": "Crédito Nubank",
+    "data": "2026-05-02",
+    "criado_em": "2026-05-23T16:46:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-8090-893f-fa9a8d1c91fd",
+    "nome": "Assinatura cinemark",
+    "valor": 40.9,
+    "tipo": "Entretenimento e Lazer",
+    "conta": "Crédito Nubank",
+    "data": "2026-05-02",
+    "criado_em": "2026-05-23T16:45:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-8006-adff-d24de82d8a58",
+    "nome": "Camisinha",
+    "valor": 25.99,
+    "tipo": "Cuidados Pessoais",
+    "conta": "Conta Nubank",
+    "data": "2026-05-02",
+    "criado_em": "2026-05-23T17:27:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-80f6-8572-c75259932c7a",
+    "nome": "Uber",
+    "valor": 17.94,
+    "tipo": "Transporte",
+    "conta": "Conta Nubank",
+    "data": "2026-05-02",
+    "criado_em": "2026-05-23T17:27:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-80c0-b586-fc1907e03db3",
+    "nome": "Passagem onibus",
+    "valor": 7.75,
+    "tipo": "Transporte",
+    "conta": "Conta Nubank",
+    "data": "2026-05-02",
+    "criado_em": "2026-05-23T17:26:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-80b3-8ea1-e479ba1fcfd6",
+    "nome": "Passagem onibus",
+    "valor": 7.75,
+    "tipo": "Transporte",
+    "conta": "Conta Nubank",
+    "data": "2026-05-02",
+    "criado_em": "2026-05-23T17:26:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-80a9-97a1-c2a0f22b402b",
+    "nome": "Corte cabelo",
+    "valor": 40,
+    "tipo": "Cuidados Pessoais",
+    "conta": "Conta Nubank",
+    "data": "2026-05-02",
+    "criado_em": "2026-05-23T17:18:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-808b-b89d-ded922cc0546",
+    "nome": "Consulta dermatologista",
+    "valor": 153,
+    "tipo": "Saúde",
+    "conta": "Crédito Nubank",
+    "data": "2026-05-02",
+    "criado_em": "2026-05-23T16:44:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-805f-bdd5-ff1df9ab8a63",
+    "nome": "Parcela celular",
+    "valor": 290.67,
+    "tipo": "Parcelas de Compras",
+    "conta": "Crédito Nubank",
+    "data": "2026-05-05",
+    "criado_em": "2026-05-23T16:46:00.000Z"
+  },
+  {
+    "id": "372eb10d-d423-802e-91be-ecc530d66386",
+    "nome": "Mercado, besteiras + comida",
+    "valor": 214.19,
+    "tipo": "Mercado",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-05-09",
+    "criado_em": "2026-06-01T00:48:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-80fb-be26-e730b71f8a9c",
+    "nome": "Academia",
+    "valor": 129.9,
+    "tipo": "Academia",
+    "conta": "Crédito Nubank",
+    "data": "2026-05-12",
+    "criado_em": "2026-05-23T16:48:00.000Z"
+  },
+  {
+    "id": "372eb10d-d423-8082-bad3-f8398f64caef",
+    "nome": "Lanche cantina",
+    "valor": 7,
+    "tipo": "Lanche/Doces",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-05-15",
+    "criado_em": "2026-06-01T00:49:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-800b-82b8-ccc776bcdf95",
+    "nome": "Ingresso Nakasa",
+    "valor": 22.22,
+    "tipo": "Entretenimento e Lazer",
+    "conta": "Crédito Nubank",
+    "data": "2026-05-18",
+    "criado_em": "2026-05-23T16:48:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-8043-802d-e6209bbb3376",
+    "nome": "Ingresso pool party",
+    "valor": 60,
+    "tipo": "Entretenimento e Lazer",
+    "conta": "Conta Nubank",
+    "data": "2026-05-18",
+    "criado_em": "2026-05-23T17:28:00.000Z"
+  },
+  {
+    "id": "369eb10d-d423-807d-8c4a-e7de87b577d6",
+    "nome": "Pizzas escola",
+    "valor": 123.41,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2026-05-21",
+    "criado_em": "2026-05-23T16:49:00.000Z"
+  },
+  {
+    "id": "380eb10d-d423-80a7-aa68-ecc5ca482b2c",
+    "nome": "Spotify",
+    "valor": 12.9,
+    "tipo": "Entretenimento e Lazer",
+    "conta": "Crédito Nubank",
+    "data": "2026-05-23",
+    "criado_em": "2026-06-15T04:15:00.000Z"
+  },
+  {
+    "id": "372eb10d-d423-8032-a6f1-cb6407c74e57",
+    "nome": "Mercado",
+    "valor": 25.76,
+    "tipo": "Mercado",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-05-25",
+    "criado_em": "2026-06-01T00:51:00.000Z"
+  },
+  {
+    "id": "372eb10d-d423-80e3-b32e-fe94f11828f2",
+    "nome": "Hortifruti",
+    "valor": 6.76,
+    "tipo": "Alimentação",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-05-25",
+    "criado_em": "2026-06-01T00:50:00.000Z"
+  },
+  {
+    "id": "372eb10d-d423-8041-94ba-ee73700b7cdf",
+    "nome": "Carnes",
+    "valor": 111.89,
+    "tipo": "Alimentação",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-05-25",
+    "criado_em": "2026-06-01T00:50:00.000Z"
+  },
+  {
+    "id": "372eb10d-d423-80ae-b7a3-fb9a195d7bfa",
+    "nome": "Livro Crime e Castigo",
+    "valor": 1.99,
+    "tipo": "Livro",
+    "conta": "Crédito Nubank",
+    "data": "2026-05-26",
+    "criado_em": "2026-06-01T00:38:00.000Z"
+  },
+  {
+    "id": "372eb10d-d423-807a-8ef2-d2a96e01cb3f",
+    "nome": "Mercado",
+    "valor": 17.46,
+    "tipo": "Mercado",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-05-29",
+    "criado_em": "2026-06-01T00:51:00.000Z"
+  },
+  {
+    "id": "372eb10d-d423-80c5-8a4e-d10ada201073",
+    "nome": "Transporte",
+    "valor": 55,
+    "tipo": "Transporte",
+    "conta": "Cartão Mobilidade iFood",
+    "data": "2026-05-29",
+    "criado_em": "2026-06-01T00:46:00.000Z"
+  },
+  {
+    "id": "372eb10d-d423-8070-952b-d822136e0592",
+    "nome": "Exfoliante",
+    "valor": 26.9,
+    "tipo": "Cosméticos",
+    "conta": "Crédito Nubank",
+    "data": "2026-05-29",
+    "criado_em": "2026-06-01T00:39:00.000Z"
+  },
+  {
+    "id": "372eb10d-d423-80c9-ace6-ec8e294e3fff",
+    "nome": "Hidratante",
+    "valor": 39.5,
+    "tipo": "Cosméticos",
+    "conta": "Crédito Nubank",
+    "data": "2026-05-29",
+    "criado_em": "2026-06-01T00:38:00.000Z"
+  },
+  {
+    "id": "372eb10d-d423-8009-9d48-f16523ad7477",
+    "nome": "Ingresso teatro corinthians",
+    "valor": 40,
+    "tipo": "Entretenimento e Lazer",
+    "conta": "Crédito Nubank",
+    "data": "2026-05-30",
+    "criado_em": "2026-06-01T00:39:00.000Z"
+  },
+  {
+    "id": "372eb10d-d423-80ae-9b57-e15df1daecfe",
+    "nome": "Dentista",
+    "valor": 110,
+    "tipo": "Saúde",
+    "conta": "Crédito Nubank",
+    "data": "2026-05-30",
+    "criado_em": "2026-06-01T00:39:00.000Z"
+  },
+  {
+    "id": "380eb10d-d423-800e-a10b-d00a2efe04e6",
+    "nome": "Cinemark",
+    "valor": 40.9,
+    "tipo": "Entretenimento e Lazer",
+    "conta": "Crédito Nubank",
+    "data": "2026-06-02",
+    "criado_em": "2026-06-15T03:56:00.000Z"
+  },
+  {
+    "id": "380eb10d-d423-805a-8b15-ce0e9a1ce838",
+    "nome": "Pizza ifood",
+    "valor": 27.18,
+    "tipo": "Alimentação",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-06-06",
+    "criado_em": "2026-06-15T04:07:00.000Z"
+  },
+  {
+    "id": "380eb10d-d423-8045-8fbc-f4124f0dcb4f",
+    "nome": "Mercado",
+    "valor": 65.79,
+    "tipo": "Mercado",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-06-08",
+    "criado_em": "2026-06-15T04:08:00.000Z"
+  },
+  {
+    "id": "380eb10d-d423-8024-92e4-cea22dbf85b6",
+    "nome": "Bolo butatan",
+    "valor": 28,
+    "tipo": "Alimentação",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-06-09",
+    "criado_em": "2026-06-15T04:08:00.000Z"
+  },
+  {
+    "id": "380eb10d-d423-80e3-b733-d7964659ac61",
+    "nome": "Mercado",
+    "valor": 161.9,
+    "tipo": "Mercado",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-06-10",
+    "criado_em": "2026-06-15T04:09:00.000Z"
+  },
+  {
+    "id": "380eb10d-d423-8020-8652-cad50454539f",
+    "nome": "Impressões",
+    "valor": 7,
+    "tipo": "Escola",
+    "conta": "Conta Nubank",
+    "data": "2026-06-10",
+    "criado_em": "2026-06-15T04:02:00.000Z"
+  },
+  {
+    "id": "380eb10d-d423-8002-9953-ddd7c28af8d2",
+    "nome": "Lanche cantina",
+    "valor": 7,
+    "tipo": "Lanche/Doces",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-06-11",
+    "criado_em": "2026-06-15T04:10:00.000Z"
+  },
+  {
+    "id": "380eb10d-d423-80eb-bb05-c5a8c5de07ff",
+    "nome": "Disney plus",
+    "valor": 19.9,
+    "tipo": "Entretenimento e Lazer",
+    "conta": "Crédito Nubank",
+    "data": "2026-06-11",
+    "criado_em": "2026-06-15T03:56:00.000Z"
+  },
+  {
+    "id": "380eb10d-d423-8001-873e-c332e8e9f09f",
+    "nome": "Lightroom",
+    "valor": 99.9,
+    "tipo": "Softwares",
+    "conta": "Crédito Nubank",
+    "data": "2026-06-12",
+    "criado_em": "2026-06-15T03:57:00.000Z"
+  },
+  {
+    "id": "380eb10d-d423-8083-8efb-d7d791c72107",
+    "nome": "Academia",
+    "valor": 129.9,
+    "tipo": "Academia",
+    "conta": "Crédito Nubank",
+    "data": "2026-06-12",
+    "criado_em": "2026-06-15T03:57:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-800f-acfa-c14cc2c12605",
+    "nome": "Mercado",
+    "valor": 15,
+    "tipo": "Mercado",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-06-13",
+    "criado_em": "2026-07-06T22:57:00.000Z"
+  },
+  {
+    "id": "380eb10d-d423-80f9-aa9c-d4fe9d6bb0c7",
+    "nome": "Camisa Brasil",
+    "valor": 80,
+    "tipo": "Vestuário",
+    "conta": "Crédito Nubank",
+    "data": "2026-06-13",
+    "criado_em": "2026-06-15T04:00:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-8088-86f8-c67559b3cfde",
+    "nome": "Bolo butatã",
+    "valor": 28,
+    "tipo": "Alimentação",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-06-15",
+    "criado_em": "2026-07-06T22:58:00.000Z"
+  },
+  {
+    "id": "385eb10d-d423-8070-86e7-f609cb572615",
+    "nome": "Casquinha Boulevard Tatuapé ",
+    "valor": 3,
+    "tipo": "Lanche/Doces",
+    "conta": "Crédito Nubank",
+    "data": "2026-06-16",
+    "criado_em": "2026-06-20T17:34:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-80be-9215-c7f86be1db3f",
+    "nome": "Recarga bilhete",
+    "valor": 15,
+    "tipo": "Transporte",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-06-16",
+    "criado_em": "2026-07-06T23:00:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-8041-8f90-deb7d0afb413",
+    "nome": "Uber",
+    "valor": 36.95,
+    "tipo": "Transporte",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-06-16",
+    "criado_em": "2026-07-06T22:59:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-806d-9bd6-e9497159dbad",
+    "nome": "Mercado",
+    "valor": 50.07,
+    "tipo": "Mercado",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-06-16",
+    "criado_em": "2026-07-06T22:58:00.000Z"
+  },
+  {
+    "id": "385eb10d-d423-8098-a774-cf7027389c57",
+    "nome": "Motel ",
+    "valor": 86.3,
+    "tipo": "Entretenimento e Lazer",
+    "conta": "Crédito Nubank",
+    "data": "2026-06-16",
+    "criado_em": "2026-06-20T17:35:00.000Z"
+  },
+  {
+    "id": "385eb10d-d423-8080-9687-e265732f9348",
+    "nome": "Cinemark",
+    "valor": 45,
+    "tipo": "Entretenimento e Lazer",
+    "conta": "Crédito Nubank",
+    "data": "2026-06-16",
+    "criado_em": "2026-06-20T17:34:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-80d9-a9de-d83f171dc92d",
+    "nome": "Parcela do celular",
+    "valor": 290.66,
+    "tipo": "Parcelas de Compras",
+    "conta": "Crédito Nubank",
+    "data": "2026-06-18",
+    "criado_em": "2026-07-06T23:20:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-808d-8bf6-d559e23e0f49",
+    "nome": "Internet",
+    "valor": 30,
+    "tipo": "Internet",
+    "conta": "Crédito Nubank",
+    "data": "2026-06-18",
+    "criado_em": "2026-07-06T23:19:00.000Z"
+  },
+  {
+    "id": "385eb10d-d423-80c4-93c3-fd627b2ba1ac",
+    "nome": "Corte cabelo",
+    "valor": 45,
+    "tipo": "Cuidados Pessoais",
+    "conta": "Crédito Nubank",
+    "data": "2026-06-18",
+    "criado_em": "2026-06-20T17:36:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-8015-ba7d-c78a67852a0d",
+    "nome": "Mercado",
+    "valor": 50,
+    "tipo": "Mercado",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-06-19",
+    "criado_em": "2026-07-06T23:04:00.000Z"
+  },
+  {
+    "id": "385eb10d-d423-8040-b399-ea6454149174",
+    "nome": "Ingresso kenji nakka",
+    "valor": 33.33,
+    "tipo": "Entretenimento e Lazer",
+    "conta": "Crédito Nubank",
+    "data": "2026-06-19",
+    "criado_em": "2026-06-20T17:36:00.000Z"
+  },
+  {
+    "id": "385eb10d-d423-802b-a475-d12163a47a50",
+    "nome": "Consumo nakka",
+    "valor": 361,
+    "tipo": "Entretenimento e Lazer",
+    "conta": "Crédito Nubank",
+    "data": "2026-06-19",
+    "criado_em": "2026-06-20T17:37:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-806f-b7ef-ef7ac81ff3c1",
+    "nome": "Doces butantã",
+    "valor": 13.58,
+    "tipo": "Lanche/Doces",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-06-22",
+    "criado_em": "2026-07-06T23:05:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-805a-b545-f0ad55801e11",
+    "nome": "Gorjeta ifood",
+    "valor": 5,
+    "tipo": "Presente",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-06-22",
+    "criado_em": "2026-07-06T23:05:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-8015-b7f9-d85f28545f98",
+    "nome": "Marmita camarão",
+    "valor": 37.01,
+    "tipo": "Alimentação",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-06-22",
+    "criado_em": "2026-07-06T23:04:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-80c5-a2bc-d88876c2e81a",
+    "nome": "Headset ",
+    "valor": 152.97,
+    "tipo": "Eletônicos",
+    "conta": "Crédito Nubank",
+    "data": "2026-06-23",
+    "criado_em": "2026-07-06T22:33:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-80de-b93d-e270db0d6377",
+    "nome": "Spotify",
+    "valor": 12.9,
+    "tipo": "Entretenimento e Lazer",
+    "conta": "Crédito Nubank",
+    "data": "2026-06-23",
+    "criado_em": "2026-07-06T22:32:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-8071-92eb-f5d9aff36e95",
+    "nome": "Seguro",
+    "valor": 51.72,
+    "tipo": "Seguro",
+    "conta": "Crédito Nubank",
+    "data": "2026-06-26",
+    "criado_em": "2026-07-06T22:34:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-804d-99c9-ca0c0fd28f70",
+    "nome": "Ge force now ",
+    "valor": 59,
+    "tipo": "Entretenimento e Lazer",
+    "conta": "Conta Nubank",
+    "data": "2026-06-27",
+    "criado_em": "2026-07-06T22:40:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-8085-93bf-f0a45bcb5d8e",
+    "nome": "RE 2 Jogo",
+    "valor": 33.8,
+    "tipo": "Entretenimento e Lazer",
+    "conta": "Crédito Nubank",
+    "data": "2026-06-27",
+    "criado_em": "2026-07-06T22:33:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-807b-abc5-fc46eeb14372",
+    "nome": "Chuveiro",
+    "valor": 309,
+    "tipo": "Eletrodomésticos",
+    "conta": "Crédito Nubank",
+    "data": "2026-06-30",
+    "criado_em": "2026-07-06T22:34:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-800b-b60a-eaffe3167b79",
+    "nome": "Cadeado bicicleta ",
+    "valor": 28.9,
+    "tipo": "Esporte",
+    "conta": "Crédito Nubank",
+    "data": "2026-07-02",
+    "criado_em": "2026-07-06T22:35:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-8093-aca0-d306130cbef7",
+    "nome": "Gatorade",
+    "valor": 4.99,
+    "tipo": "Alimentação",
+    "conta": "Crédito Nubank",
+    "data": "2026-07-02",
+    "criado_em": "2026-07-06T22:35:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-8041-a78e-c4a752fb7411",
+    "nome": "Recarga bilhete",
+    "valor": 20,
+    "tipo": "Transporte",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-07-02",
+    "criado_em": "2026-07-06T23:06:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-8067-8618-edd2ebfd2045",
+    "nome": "Futebol",
+    "valor": 20.34,
+    "tipo": "Esporte",
+    "conta": "Conta Nubank",
+    "data": "2026-07-02",
+    "criado_em": "2026-07-06T22:41:00.000Z"
+  },
+  {
+    "id": "3a3eb10d-d423-8184-91c0-dae1deec3450",
+    "nome": "Desodorante e hidratante labial",
+    "valor": 32.98,
+    "tipo": "Cuidados Pessoais",
+    "conta": "Crédito Nubank",
+    "data": "2026-07-03",
+    "criado_em": "2026-07-20T00:09:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-8093-8f59-c91dd93d4298",
+    "nome": "Pizza",
+    "valor": 78.95,
+    "tipo": "Lanche/Doces",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-07-04",
+    "criado_em": "2026-07-06T23:07:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-8061-b70e-f00d0c303537",
+    "nome": "Padaria e mercado",
+    "valor": 102.08,
+    "tipo": "Mercado",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-07-04",
+    "criado_em": "2026-07-06T23:07:00.000Z"
+  },
+  {
+    "id": "395eb10d-d423-8080-a35d-d555a61bfb42",
+    "nome": "Uber",
+    "valor": 69.93,
+    "tipo": "Transporte",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-07-05",
+    "criado_em": "2026-07-06T23:08:00.000Z"
+  },
+  {
+    "id": "3a3eb10d-d423-81a7-b32d-f5003b7dcaa6",
+    "nome": "Cremes anti espinhas",
+    "valor": 148.87,
+    "tipo": "Cuidados Pessoais",
+    "conta": "Crédito Nubank",
+    "data": "2026-07-06",
+    "criado_em": "2026-07-20T00:08:00.000Z"
+  },
+  {
+    "id": "3a3eb10d-d423-8101-a111-fc302c566ed7",
+    "nome": "Parcela Apartamento",
+    "valor": 678.31,
+    "tipo": "Moradia",
+    "conta": "Conta Nubank",
+    "data": "2026-07-08",
+    "criado_em": "2026-07-20T00:20:00.000Z"
+  },
+  {
+    "id": "3a3eb10d-d423-816a-818f-f7ae83f5402f",
+    "nome": "Remach jogo",
+    "valor": 44.5,
+    "tipo": "Entretenimento e Lazer",
+    "conta": "Crédito Nubank",
+    "data": "2026-07-08",
+    "criado_em": "2026-07-20T00:06:00.000Z"
+  },
+  {
+    "id": "3a3eb10d-d423-815b-b74a-cebd597e7ac7",
+    "nome": "Mercado",
+    "valor": 21.96,
+    "tipo": "Mercado",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-07-11",
+    "criado_em": "2026-07-20T00:35:00.000Z"
+  },
+  {
+    "id": "3a3eb10d-d423-815f-a95a-f7f922f15954",
+    "nome": "Mercado Assai",
+    "valor": 42.7,
+    "tipo": "Mercado",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-07-11",
+    "criado_em": "2026-07-20T00:34:00.000Z"
+  },
+  {
+    "id": "3a3eb10d-d423-815a-96ae-c0a5536e7f68",
+    "nome": "Academia",
+    "valor": 129.9,
+    "tipo": "Academia",
+    "conta": "Crédito Nubank",
+    "data": "2026-07-12",
+    "criado_em": "2026-07-20T00:07:00.000Z"
+  },
+  {
+    "id": "3a3eb10d-d423-8134-92f5-e84e52d8f51f",
+    "nome": "Mercado Assai",
+    "valor": 108.84,
+    "tipo": "Mercado",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-07-14",
+    "criado_em": "2026-07-20T00:35:00.000Z"
+  },
+  {
+    "id": "3a3eb10d-d423-81dc-9b38-c3d4e5f9be17",
+    "nome": "Aguas pra trilha",
+    "valor": 10.38,
+    "tipo": "Mercado",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-07-17",
+    "criado_em": "2026-07-20T00:36:00.000Z"
+  },
+  {
+    "id": "3a3eb10d-d423-817a-83cf-c83944afa3c3",
+    "nome": "Intera Compras trilha",
+    "valor": 29,
+    "tipo": "Alimentação",
+    "conta": "Conta Nubank",
+    "data": "2026-07-17",
+    "criado_em": "2026-07-20T00:28:00.000Z"
+  },
+  {
+    "id": "3a3eb10d-d423-8132-b898-d2fff47fa926",
+    "nome": "Corte cabelo",
+    "valor": 40,
+    "tipo": "Cuidados Pessoais",
+    "conta": "Conta Nubank",
+    "data": "2026-07-17",
+    "criado_em": "2026-07-20T00:26:00.000Z"
+  },
+  {
+    "id": "3a3eb10d-d423-81c2-822a-f58949b74388",
+    "nome": "Habbibs Meu e Kenji",
+    "valor": 109.78,
+    "tipo": "Lanche/Doces",
+    "conta": "Conta Nubank",
+    "data": "2026-07-18",
+    "criado_em": "2026-07-20T00:32:00.000Z"
+  },
+  {
+    "id": "3a3eb10d-d423-8108-b618-f00cfaf78753",
+    "nome": "Seguro Celular",
+    "valor": 51.71,
+    "tipo": "Seguro",
+    "conta": "Crédito Nubank",
+    "data": "2026-07-18",
+    "criado_em": "2026-07-20T00:57:00.000Z"
+  },
+  {
+    "id": "3a3eb10d-d423-81c9-bcdf-c6d9c49957a0",
+    "nome": "Internet",
+    "valor": 30,
+    "tipo": "Internet",
+    "conta": "Crédito Nubank",
+    "data": "2026-07-18",
+    "criado_em": "2026-07-20T00:57:00.000Z"
+  },
+  {
+    "id": "3a3eb10d-d423-81aa-8b69-e113a90e6bbb",
+    "nome": "Parcela Celular",
+    "valor": 290.66,
+    "tipo": "Parcelas de Compras",
+    "conta": "Crédito Nubank",
+    "data": "2026-07-18",
+    "criado_em": "2026-07-20T00:56:00.000Z"
+  },
+  {
+    "id": "3a3eb10d-d423-81c7-a7e5-ed4cb6d62c03",
+    "nome": "Uber pra festa do vini",
+    "valor": 10.94,
+    "tipo": "Transporte",
+    "conta": "Cartão Mobilidade iFood",
+    "data": "2026-07-18",
+    "criado_em": "2026-07-20T00:38:00.000Z"
+  },
+  {
+    "id": "3a3eb10d-d423-81d2-91c2-f3b2979acab0",
+    "nome": "Recarga cartão sptrans",
+    "valor": 15,
+    "tipo": "Transporte",
+    "conta": "Crédito Nubank",
+    "data": "2026-07-18",
+    "criado_em": "2026-07-20T00:09:00.000Z"
+  },
+  {
+    "id": "3a3eb10d-d423-81be-8be8-ce894b3c480d",
+    "nome": "Bananas",
+    "valor": 10,
+    "tipo": "Alimentação",
+    "conta": "Cartão Alimentação iFood",
+    "data": "2026-07-19",
+    "criado_em": "2026-07-20T00:39:00.000Z"
+  },
+  {
+    "id": "3a3eb10d-d423-810d-9855-d8d80e3aa3b3",
+    "nome": "Uber festa vini volta",
+    "valor": 12.95,
+    "tipo": "Transporte",
+    "conta": "Cartão Mobilidade iFood",
+    "data": "2026-07-19",
+    "criado_em": "2026-07-20T00:38:00.000Z"
+  },
+  {
+    "id": "3a4eb10d-d423-81a2-9dfc-e026a1e17984",
+    "nome": "Ingresso corinthians",
+    "valor": 100,
+    "tipo": "Entretenimento e Lazer",
+    "conta": "Crédito Nubank",
+    "data": "2026-07-20",
+    "criado_em": "2026-07-21T00:47:00.000Z"
+  },
+  {
+    "id": "3aaeb10d-d423-81f5-a590-eeb6ccc3bc11",
+    "nome": "Uber Corinthians",
+    "valor": 22.93,
+    "tipo": "Transporte",
+    "conta": "Cartão Mobilidade iFood",
+    "data": "2026-07-23",
+    "criado_em": "2026-07-27T04:10:00.000Z"
+  },
+  {
+    "id": "3aaeb10d-d423-8130-af87-cfc0dcb98e70",
+    "nome": "Spotify",
+    "valor": 12.9,
+    "tipo": "Entretenimento e Lazer",
+    "conta": "Crédito Nubank",
+    "data": "2026-07-23",
+    "criado_em": "2026-07-27T04:08:00.000Z"
+  },
+  {
+    "id": "3afeb10d-d423-8148-b97f-d53533f57be0",
+    "nome": "Dominio site",
+    "valor": 43.1,
+    "tipo": "Profissional",
+    "conta": "Crédito Nubank",
+    "data": "2026-07-27",
+    "criado_em": "2026-08-01T15:24:00.000Z"
+  },
+  {
+    "id": "3afeb10d-d423-8184-9f64-f76a51126a80",
+    "nome": "Intera aniversário vini",
+    "valor": 20,
+    "tipo": "Entretenimento e Lazer",
+    "conta": "Conta Nubank",
+    "data": "2026-08-01",
+    "criado_em": "2026-08-01T15:57:00.000Z"
+  }
+]
